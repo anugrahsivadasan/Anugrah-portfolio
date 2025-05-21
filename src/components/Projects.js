@@ -36,7 +36,7 @@ export const Projects = () => {
     {
       title: "Play Store colne",
       description: "Design & Development",
-      imgUrl: ,
+      
       link:"https://anugrahsivadasan.github.io/Google-playstore-clone/",
 
     },
