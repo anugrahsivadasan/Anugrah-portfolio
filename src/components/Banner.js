@@ -72,7 +72,7 @@ Feel free to explore my projects and get in touch for collaboration!</p>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
                  <img 
-  src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png"
+  src="https://media.licdn.com/dms/image/v2/D5603AQEQjgd5vMVOJw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719000150381?e=1753315200&v=beta&t=JhohI5KltQ2gV_CNub7x8CaHaH6GAxjXmwzKRt6xSaQ"
   alt="Header Img" 
   style={{ 
     width: '450px', 
