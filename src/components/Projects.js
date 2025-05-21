@@ -84,7 +84,19 @@ export const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="section">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                      <p><br></br> A few front-end projects I’ve built to sharpen my skills and explore creative design: 
+
+Boat Clone Website – A product showcase website inspired by Boat, featuring categories like earbuds, watches, and speakers using HTML, CSS, and Bootstrap.<br></br>
+
+Travel Website Clone – A responsive and visually rich travel site highlighting destinations and booking options.<br></br>
+
+Fantra Drink Website – A modern animated landing page for a fictional energy drink, built using HTML, CSS, JavaScript, and GSAP.<br></br>
+
+Google Play Store Clone – A static front-end replica of the Play Store interface using only HTML and CSS.<br></br>
+
+Headset Website – A stylish single-product website showcasing a headset with clean UI and product highlights.<br></br>
+
+Parallax Website – A smooth-scrolling parallax effect website built for creative visual presentation using HTML and CSS..<br></br></p>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
                       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
